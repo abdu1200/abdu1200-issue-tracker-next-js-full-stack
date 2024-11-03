@@ -1,0 +1,6 @@
+/* overriding the default styles of radix(the default font family or style of radix was or is not 'inter but w're making it 'inter') */
+.radix-themes {
+    --default-font-family: var(--font-inter);
+  }
+
+  
